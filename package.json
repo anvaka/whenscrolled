@@ -1,0 +1,21 @@
+{
+  "name": "whenscrolled",
+  "version": "0.0.1",
+  "description": "Simple directive which allows to execute callback when user scrolls over element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "an",
+    "directive",
+    "scroll"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/whenscrolled"
+  }
+}
